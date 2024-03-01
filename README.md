@@ -1,4 +1,9 @@
-# vuerouter
+# vuerouter-gmail-clone
+
+## Link to project
+```
+https://vueroutertest.netlify.app
+```
 
 ## Project setup
 ```
